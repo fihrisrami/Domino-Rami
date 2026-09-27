@@ -1,0 +1,6 @@
+{
+  "name": "دومينو رامي",
+  "description": "لعبة دومينو جماعية محلية عبر نقطة الاتصال Hotspot لـ 2 إلى 4 لاعبين بنظام الشراكة واللعب الحر بدون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

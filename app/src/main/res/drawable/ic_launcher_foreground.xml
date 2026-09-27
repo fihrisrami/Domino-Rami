@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tile Drop Shadow -->
+    <path
+        android:fillColor="#50000000"
+        android:pathData="M38,24 h36 a6,6 0 0,1 6,6 v52 a6,6 0 0,1 -6,6 h-36 a6,6 0 0,1 -6,-6 v-52 a6,6 0 0,1 6,-6 z" />
+
+    <!-- Tile Body - Luxury Ivory White -->
+    <path
+        android:fillColor="#FBF9F3"
+        android:pathData="M36,22 h36 a6,6 0 0,1 6,6 v52 a6,6 0 0,1 -6,6 h-36 a6,6 0 0,1 -6,-6 v-52 a6,6 0 0,1 6,-6 z" />
+
+    <!-- Tile Inner Bevel Highlight -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M36,23 h36 a5,5 0 0,1 5,5 v50 a5,5 0 0,1 -5,5 h-36 a5,5 0 0,1 -5,-5 v-50 a5,5 0 0,1 5,-5 z" />
+
+    <!-- Center Grooved Divider Line -->
+    <path
+        android:strokeColor="#C8C0B2"
+        android:strokeWidth="2.5"
+        android:pathData="M34,54 L74,54" />
+    <path
+        android:strokeColor="#2C241E"
+        android:strokeWidth="1"
+        android:pathData="M35,54 L73,54" />
+
+    <!-- Brass Center Spinner Pin -->
+    <path
+        android:fillColor="#E5A93B"
+        android:pathData="M54,54 m-3.2,0 a3.2,3.2 0 1,0 6.4,0 a3.2,3.2 0 1,0 -6.4,0" />
+    <path
+        android:fillColor="#FFF1B8"
+        android:pathData="M54,53.5 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+
+    <!-- TOP HALF: 6 Pips (Double-Six top) -->
+    <!-- Col 1: x=43; Col 2: x=65; Rows: y=29, y=38, y=47 -->
+    <path android:fillColor="#1A1816" android:pathData="M43,29 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,29 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M43,38 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,38 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M43,47 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,47 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+
+    <!-- BOTTOM HALF: 6 Pips (Double-Six bottom) -->
+    <!-- Col 1: x=43; Col 2: x=65; Rows: y=61, y=70, y=79 -->
+    <path android:fillColor="#1A1816" android:pathData="M43,61 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,61 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M43,70 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,70 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M43,79 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+    <path android:fillColor="#1A1816" android:pathData="M65,79 m-2.3,0 a2.3,2.3 0 1,0 4.6,0 a2.3,2.3 0 1,0 -4.6,0" />
+
+</vector>
